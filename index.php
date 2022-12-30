@@ -1,5 +1,5 @@
 <?php
-include('authentication.php');
+// include('authentication.php');
 ?>
 
 
@@ -16,23 +16,22 @@ include('authentication.php');
     
 </head>
 <body class="page-top">
-    <header class="header">
-        <div>
-            <a class="logo" href="https://www.ecellvnit.org/"><img class="logo" src="images/Layer 1.png" alt=""></a>
-        </div>
-        <div>
-            <input class="menu-btn" type="checkbox" id="menu-btn" />
-            <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
-            <div class="menu">
-                <li><a href="./index.php" class="link link-theme link-arrow">HOME</a></li>
-                <li><a href="./structure.php" class="link link-theme link-arrow">STRUCTURE</a></li>
-                <li><a href="./speakers.php" class="link link-theme link-arrow">SPEAKERS</a></li>
-                <li><a href="./registration.php" class="link link-theme link-arrow">REGISTER</a></li>
-                <li><a href="./login.php" class="link link-theme link-arrow">LOGIN</a></li>
+<header class="header">
+            <div>
+                <a class="logo" href="https://www.ecellvnit.org/"><img class="logo" src="images/Layer 1.png" alt=""></a>
             </div>
-        </div>
-      
-    </header>
+            <div>
+                <input class="menu-btn" type="checkbox" id="menu-btn" />
+                <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+                <ul class="menu">
+                    <li><a href="./index.php" class="link link-theme link-arrow">HOME</a></li>
+                    <li><a href="./structure.php" class="link link-theme link-arrow">STRUCTURE</a></li>
+                    <li><a href="./speakers.php" class="link link-theme link-arrow">SPEAKERS</a></li>
+                    <li><a href="./registration.php" class="link link-theme link-arrow">REGISTER</a></li>
+                    <li><a href="./login.php" class="link link-theme link-arrow">LOGIN</a></li>
+                </ul>
+            </div>
+        </header>
 
     <div id="main" class="main">
 
