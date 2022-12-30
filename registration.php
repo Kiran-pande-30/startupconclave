@@ -1,6 +1,6 @@
 <?php
 session_start();
-include('authentication.php');
+// include('authentication.php');
 ?>
 <!DOCTYPE html>
 <html lang="en">
