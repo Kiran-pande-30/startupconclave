@@ -9,7 +9,7 @@
 </head>
 <style>
 
-   @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;500;100;200&family=Oswald:wght@700&display=swap');
+   @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&family=Oswald:wght@700&display=swap');
 
     *{
         margin: 0;
@@ -140,8 +140,9 @@ textarea{
             <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
             <ul class="menu">
                 <li><a href="./index.php" class="link link-theme link-arrow">HOME</a></li>
-                <li><a href="./structure.php" class="link link-theme link-arrow">STRUCTURE</a></li>
+                <li><a href="./structure.php" class="link link-theme link-arrow">INFO</a></li>
                 <li><a href="./speakers.php" class="link link-theme link-arrow">SPEAKERS</a></li>
+                <li><a href="./index.html#contact" class="link link-theme link-arrow">CONTACT US</a></li>
                 <li><a href="./logout.php" class="link link-theme link-arrow">LOGOUT</a></li>
             </ul>
         </div>
