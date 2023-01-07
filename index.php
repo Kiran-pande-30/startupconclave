@@ -27,6 +27,7 @@
                     <li><a href="./index.php" class="link link-theme link-arrow">HOME</a></li>
                     <li><a href="./structure.php" class="link link-theme link-arrow">STRUCTURE</a></li>
                     <li><a href="./speakers.php" class="link link-theme link-arrow">SPEAKERS</a></li>
+                    <li><a href="#contact" class="link link-theme link-arrow">CONTACT US</a></li>
                     <li><a href="./registration.php" class="link link-theme link-arrow">REGISTER</a></li>
                     <li><a href="./login.php" class="link link-theme link-arrow">LOGIN</a></li>
                 </ul>
@@ -118,16 +119,20 @@
     </div> 
     
     
-    <!-- contact_section starts -->
-    <section class="contact">
+    <div class="space" id="contact" style="height: 100px;">
+        
+    </div>
+
+<!-- contact_section starts -->
+    <section class="contact" >
         <div class="contact_container">
             <div class="contact_container_2">
                 <p class="contact_heading">CONTACT US</p>
                 <h5>For any queries contact us at</h5>
                 <div class="name_container">
                     <div class="mem">
-                        <div class="mem_name">Alok Ranjan</div> 
-                        <p class="phone_num"> +91 9334816453</p>
+                        <div class="mem_name">Devesh Khilnani</div> 
+                        <p class="phone_num"> +91 9993494640</p>
                         <!-- <p class="email_num"> <a class="email_link" href="mailto:deveshkhilnani@outlook.com">deveshkhilnani@outlook.com</p></a> -->
                     </div>
                     <div class="mem">
@@ -136,7 +141,7 @@
                         <!-- <p class="email_num"> <a class="email_link" href="mailto:dhirajbodade123@gmail.com">dhirajbodade123@gmail.com</p></a> -->
                     </div>
                     <div class="mem">
-                        <div class="mem_name">Devesh Khilnani</div> 
+                        <div class="mem_name">Alok Ranjan</div> 
                         <p class="phone_num">+91 9334816453</p>
                         <!-- <p class="email_num"> <a class="email_link" href="mailto:dhirajbodade123@gmail.com">alokranjan11052003@gmail.com</p></a> -->
                     </div>
