@@ -38,7 +38,7 @@
         <div class="details">
             <h1 class="suc">Register Now For</h1>
             <h3 class="suc-det">Central India Largest B-Plan Competition</h3>
-            <h3 class="suc-det">Cash Prizes upto <span class="prize"> INR 3 Lakhs <span class="star"> * </span></span> <br> and Resorces worth <span class="prize">1 Million <span class="star" >** </span> </span></h3>
+            <h3 class="suc-det">Cash Prizes upto <span class="prize"> INR 3 Lakhs <span class="star"> * </span></span> <br> and Resources worth <span class="prize">1 Million <span class="star" >** </span> </span></h3>
             <button onclick="window.location.href='./registration.php'"  class="register button-24" role="button">REGISTER</button>
 
         </div>
@@ -81,7 +81,7 @@
     </section>
     </div>
 
-    <!-- <div class="title-name">
+    <div class="title-name">
         <h4>MAJOR SPONSOR</h4>
     </div>
 
@@ -115,7 +115,7 @@
                 <img class="img" src="images/blue-learn.png" alt="">
             </div>
         </div>
-    </div> -->
+    </div> 
     
     
     <!-- contact_section starts -->
