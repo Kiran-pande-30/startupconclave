@@ -15,6 +15,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
          <style>
+             @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+            @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&family=Oswald:wght@700&display=swap');
             .main-carousel-cont{
                 padding-top: 7rem;
             }
@@ -53,10 +55,12 @@
                 <input class="menu-btn" type="checkbox" id="menu-btn" />
                 <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
                 <ul class="menu">
-                    <li><a href="./index.php" class="link link-theme link-arrow">HOME</a></li>
-                    <li><a href="./structure.php" class="link link-theme link-arrow">STRUCTURE</a></li>
-                    <li><a href="./registration.php" class="link link-theme link-arrow">REGISTER</a></li>
-                    <li><a href="./login.php" class="link link-theme link-arrow">LOGIN</a></li>
+                    <li><a href="./index.html" class="link link-theme link-arrow">HOME</a></li>
+                    <li><a href="./structure.html" class="link link-theme link-arrow">INFO</a></li>
+                    <li><a href="./speakers.html" class="link link-theme link-arrow">SPEAKERS</a></li>
+                    <li><a href="./index.html#contact" class="link link-theme link-arrow">CONTACT US</a></li>
+                    <li><a href="./registration_form.html" class="link link-theme link-arrow">REGISTER</a></li>
+                    <li><a href="./login_form.html" class="link link-theme link-arrow">LOGIN</a></li>
                 </ul>
             </div>
         </header>
@@ -649,6 +653,7 @@
                                 <h2 class="name">SHWETANK SHRIMAL </h2>
                                 <p class="description">Serial Entrepreneur & Investor - UK </p>
     
+                           
                                 <button class="button"><a href="https://www.linkedin.com/in/shwetank-shrimal-43b74625/">Know More</a></button>
                             </div>
                         </div>
