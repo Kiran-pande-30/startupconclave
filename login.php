@@ -138,10 +138,12 @@ if (isset($_SESSION['auth'])){
             <input class="menu-btn" type="checkbox" id="menu-btn" />
             <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
             <ul class="menu">
-                <li><a href="./index.php" class="link link-theme link-arrow">HOME</a></li>
-                <li><a href="./structure.php" class="link link-theme link-arrow">STRUCTURE</a></li>
-                <li><a href="./speakers.php" class="link link-theme link-arrow">SPEAKERS</a></li>
-                <li><a href="./registration.php" class="link link-theme link-arrow">REGISTER</a></li>
+                <li><a href="./index.html" class="link link-theme link-arrow">HOME</a></li>
+                <li><a href="./structure.html" class="link link-theme link-arrow">INFO</a></li>
+                <li><a href="./speakers.html" class="link link-theme link-arrow">SPEAKERS</a></li>
+                <li><a href="./index.html#contact" class="link link-theme link-arrow">CONTACT US</a></li>
+                <li><a href="./registration_form.html" class="link link-theme link-arrow">REGISTER</a></li>
+                <li><a href="./login_form.html" class="link link-theme link-arrow">LOGIN</a></li>
             </ul>
         </div>
     </header>
