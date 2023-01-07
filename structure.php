@@ -321,7 +321,9 @@ p{
         <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
         <ul class="menu">
             <li><a href="./index.php" class="link link-theme link-arrow">HOME</a></li>
+	    <li><a href="./structure.html" class="link link-theme link-arrow">INFO</a></li>
             <li><a href="./speakers.php" class="link link-theme link-arrow">SPEAKERS</a></li>
+	    <li><a href="./index.html#contact" class="link link-theme link-arrow">CONTACT US</a></li>
             <li><a href="./registration.php" class="link link-theme link-arrow">REGISTER</a></li>
             <li><a href="./login.php" class="link link-theme link-arrow">LOGIN</a></li>
         </ul>
@@ -341,7 +343,7 @@ p{
         <i class="icon fas fa-star"></i>
         <div class="details">
           <span class="title">1. Executive Summary Round</span>
-          <span class="date">Till 31 Jan 2023</span>
+          <span class="date">Till 8 Feb 2023</span>
         </div>
         <p>Participants have to provide a thorough description of thier startup idea as part of the registration process followed by answering some basic questions regarding it.<p>
       </section>
@@ -351,7 +353,7 @@ p{
         <i class="icon fas fa-star"></i>
         <div class="details">
           <span class="title">2. Mentorship Round</span>
-          <span class="date">February 2023</span>
+          <span class="date">10 Feb 2023 - 27 Feb 2023</span>
         </div>
         <p>Shortlisted Teams will be receiving mentoring sessions from renowned and experienced entrepreneurs. Each team has to submit its pitch deck and Elevator pitch. Mentors will guide the teams in thier further endeavors.</p>
         <!-- <div class="bottom">
@@ -365,7 +367,7 @@ p{
         <i class="icon fas fa-star"></i>
         <div class="details">
           <span class="title">3. Shark Tank Round</span>
-          <span class="date">20 Mar 2023 - 25 Mar 2023</span>
+          <span class="date">23 Mar 2023 - 25 Mar 2023</span>
         </div>
         <p>Leading teams will present their Startup at Consortium(Annual E-summit) at VNIT.The essential traits of an entrepreneur will be put to the test in front of the investors to negotiate.This round will test the presentation, speaking,evaluation and negotiationn skills of the startups.</p>
         <!-- <div class="bottom">
