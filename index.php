@@ -116,6 +116,52 @@
             </div>
         </div>
     </div> -->
+    
+    
+    <!-- contact_section starts -->
+    <section class="contact">
+        <div class="contact_container">
+            <div class="contact_container_2">
+                <p class="contact_heading">CONTACT US</p>
+                <h5>For any queries contact us at</h5>
+                <div class="name_container">
+                    <div class="mem">
+                        <div class="mem_name">Alok Ranjan</div> 
+                        <p class="phone_num"> +91 9334816453</p>
+                        <!-- <p class="email_num"> <a class="email_link" href="mailto:deveshkhilnani@outlook.com">deveshkhilnani@outlook.com</p></a> -->
+                    </div>
+                    <div class="mem">
+                        <div class="mem_name">Kiran Pande</div> 
+                        <p class="phone_num">+91 9146479130</p>
+                        <!-- <p class="email_num"> <a class="email_link" href="mailto:dhirajbodade123@gmail.com">dhirajbodade123@gmail.com</p></a> -->
+                    </div>
+                    <div class="mem">
+                        <div class="mem_name">Devesh Khilnani</div> 
+                        <p class="phone_num">+91 9334816453</p>
+                        <!-- <p class="email_num"> <a class="email_link" href="mailto:dhirajbodade123@gmail.com">alokranjan11052003@gmail.com</p></a> -->
+                    </div>
+                </div>
+                <div class="name_container_2">
+                    <div class="mem">
+                        <div class="mem_name">Dhiraj Bodade</div> 
+                        <p class="phone_num">+91 9503632771</p>
+                        <!-- <p class="email_num"><a class="email_link" href="mailto:kpande026@gmail.com">kpande026@gmail.com</p></a> -->
+                    </div>
+                    <div class="mem">
+                        <div class="mem_name">Aneesh Patil</div> 
+                        <p class="phone_num">+91 9422277113</p>
+                        <!-- <p class="email_num"> <a class="email_link" href="mailto:aneeshpatil18@gmail.com"></a>aneeshpatil18@gmail.com</p> -->
+                    </div>
+                    <div class="mem">
+                        <div class="mem_name">Priyans Singh</div> 
+                        <p class="phone_num">+91 9821194391</p>
+                        <!-- <p class="email_num"> <a class="email_link" href="mailto:priyansingh2001@gmail.com">priyansingh2001@gmail.com</p></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+<!-- contact_section ends -->
 
 
 
