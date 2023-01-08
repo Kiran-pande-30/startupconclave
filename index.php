@@ -27,6 +27,7 @@
                     <li><a href="./index.php" class="link link-theme link-arrow">HOME</a></li>
                     <li><a href="./structure.php" class="link link-theme link-arrow">STRUCTURE</a></li>
                     <li><a href="./speakers.php" class="link link-theme link-arrow">SPEAKERS</a></li>
+                    <li><a href="#contact" class="link link-theme link-arrow">CONTACT US</a></li>
                     <li><a href="./registration.php" class="link link-theme link-arrow">REGISTER</a></li>
                     <li><a href="./login.php" class="link link-theme link-arrow">LOGIN</a></li>
                 </ul>
