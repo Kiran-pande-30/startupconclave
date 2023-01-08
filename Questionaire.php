@@ -164,7 +164,7 @@ textarea{
                 </select> 
             </div>
             <div class="details">
-                <div class="summary">Provide a brief description of the problem indentified.</div> 
+                <div class="summary">Provide a brief description of the problem identified.</div> 
                 <textarea required name="q1" id="q1" cols="50" rows="5"  ></textarea>
             </div>
             <div class="details">
@@ -184,7 +184,7 @@ textarea{
                 <textarea required name="q5" id="q5" cols="50" rows="5"  ></textarea>
             </div>
             <div class="details">
-                <div class="summary">Is your idea a revenue-generating one? Explain the revenue model in brief including the components that affect costings and prices
+                <div class="summary">Is your idea a revenue-generating one? Explain the revenue model in brief including the components that affect costings and prices.
                 </div> 
                 <textarea required name="q6" id="q6" cols="50" rows="5"  ></textarea>
             </div>
@@ -208,12 +208,12 @@ Mention if you have secured funding, incubation, or enrolled in any (if any) acc
                 <textarea required name="q9" id="q9" cols="50" rows="5"  ></textarea> 
             </div>
             <div class="details">
-                <div class="summary">Mention details about the help you demand for your venture. ?</div> 
+                <div class="summary">Mention details about the help you demand for your venture.</div> 
                 <textarea required name="q10" id="q10" cols="50" rows="5"  ></textarea>
         </div>
             <div class="details">
                 <div class="summary"> Add the website link of your Startup(If any)</div> 
-                <textarea name="q15" id="q15" cols="50" rows="5"  ></textarea> 
+                <textarea name="q11" id="q11" cols="50" rows="5"  ></textarea> 
             </div>
             <div class="btnhi">
                 <button  class="register button-24" type="submit" name="submit" role="button">SUBMIT</button>
