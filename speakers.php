@@ -59,8 +59,8 @@
                     <li><a href="./structure.php" class="link link-theme link-arrow">INFO</a></li>
                     <li><a href="./speakers.php" class="link link-theme link-arrow">SPEAKERS</a></li>
                     <li><a href="./index.php#contact" class="link link-theme link-arrow">CONTACT US</a></li>
-                    <li><a href="./registration_form.php" class="link link-theme link-arrow">REGISTER</a></li>
-                    <li><a href="./login_form.php" class="link link-theme link-arrow">LOGIN</a></li>
+                    <li><a href="./registration.php" class="link link-theme link-arrow">REGISTER</a></li>
+                    <li><a href="./login.php" class="link link-theme link-arrow">LOGIN</a></li>
                 </ul>
             </div>
         </header>
