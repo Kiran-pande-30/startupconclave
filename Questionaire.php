@@ -142,7 +142,7 @@ textarea{
                 <li><a href="./index.php" class="link link-theme link-arrow">HOME</a></li>
                 <li><a href="./structure.php" class="link link-theme link-arrow">INFO</a></li>
                 <li><a href="./speakers.php" class="link link-theme link-arrow">SPEAKERS</a></li>
-                <li><a href="./index.html#contact" class="link link-theme link-arrow">CONTACT US</a></li>
+                <li><a href="./index.php#contact" class="link link-theme link-arrow">CONTACT US</a></li>
                 <li><a href="./logout.php" class="link link-theme link-arrow">LOGOUT</a></li>
             </ul>
         </div>
