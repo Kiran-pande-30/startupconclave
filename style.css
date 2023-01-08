@@ -518,7 +518,7 @@ p {
   align-items: center;
   justify-content: space-around;
   /* height: 600px; */
-  padding-top: 60px;
+  padding-top: 100px;
 }
 
 .main .logo{
@@ -760,7 +760,7 @@ p {
   cursor: pointer;
   display: inline-block;
   font-size: 16px;
-  font-weight: 100;
+  font-weight: 500;
   line-height: 16px;
   min-height: 40px;
   outline: 0;
