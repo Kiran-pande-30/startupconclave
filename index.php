@@ -207,7 +207,7 @@
                 <div class="address">
                     <h2 style="margin-bottom: 5px;">Contact</h2>
                     <div class="address-links">
-                        <li><a href="mailto:startupcinclave@ecellvnit.co.in"><i class="fa-solid fa-envelope"></i>startupcinclave@ecellvnit.co.in</a></li>
+                        <li><a href="mailto:startupconclave@ecellvnit.co.in"><i class="fa-solid fa-envelope"></i>startupcinclave@ecellvnit.co.in</a></li>
                         <li><a href="mailto:corporateaffairs@ecellvnit.co.in"><i class="fa-solid fa-envelope"></i>corporateaffairs@ecellvnit.co.in</a></li>
                     </div>
                 </div>
