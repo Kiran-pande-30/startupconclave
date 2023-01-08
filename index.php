@@ -40,7 +40,7 @@
             <h1 class="suc">Register Now For</h1>
             <h3 class="suc-det">Central India Largest B-Plan Competition</h3>
             <h3 class="suc-det">Cash Prizes upto <span class="prize"> INR 3 Lakhs <span class="star"> * </span></span> <br> and Resources worth <span class="prize">1 Million <span class="star" >** </span> </span></h3>
-            <button onclick="window.location.href='./registration.php'"  class="register button-24" role="button">REGISTER</button>
+            <button onclick="window.location.href='./registration.php'"  class="register button-24" role="button">REGISTER NOW !</button>
 
         </div>
 
