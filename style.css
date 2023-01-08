@@ -93,12 +93,9 @@ p {
   clear: both
 }
 
-
-
 .intro h1 strong {
   color: #bf1807
 }
-
 
 /* - link under - */
 
@@ -759,9 +756,9 @@ p {
   color: #FFFFFF;
   cursor: pointer;
   display: inline-block;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 16px;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 20px;
   min-height: 40px;
   outline: 0;
   padding: 12px 14px;
