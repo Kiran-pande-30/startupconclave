@@ -202,30 +202,15 @@ textarea{
                 <textarea required name="q8" id="q8" cols="50" rows="5"  ></textarea> 
             </div>
             <div class="details">
-                <div class="summary">What marketing techniques(Channels) are you currently using to market your product/service to reach your target customers?</div> 
+                <div class="summary">What growth opportunities do you see for your venture? (Be specific and precise)
+Mention if you have secured funding, incubation, or enrolled in any (if any) accelerator program.
+</div> 
                 <textarea required name="q9" id="q9" cols="50" rows="5"  ></textarea> 
             </div>
             <div class="details">
-                <div class="summary">How much is your market traction?</div> 
+                <div class="summary">Mention details about the help you demand for your venture. ?</div> 
                 <textarea required name="q10" id="q10" cols="50" rows="5"  ></textarea>
-            </div>
-            <div class="details">
-                <div class="summary">What growth opportunities you see for your venture? (Be specific and precise)</div> 
-                <textarea required name="q11" id="q11" cols="50" rows="5"  ></textarea> 
-            </div>
-            <div class="details">
-                <div class="summary"> Mention if you have secured funding, incubation, or enrolled in any (if any) accelerator program.</div> 
-                <textarea name="q12" id="q12" cols="50" rows="5" ></textarea>
-            </div>
-            <div class="details">
-                <div class="summary">What are the Key Activities of your business(How your business works? Give a brief explanation)</div> 
-                <textarea required name="q13" id="q13" cols="50" rows="5"  ></textarea>
-            </div>
-            <div class="details">
-                <div class="summary">How is your Relationship with Customers?(Repeating customers, Retention rate etc)
-                </div> 
-                <textarea required name="q14" id="q14" cols="50" rows="5"  ></textarea> 
-            </div>
+        </div>
             <div class="details">
                 <div class="summary"> Add the website link of your Startup(If any)</div> 
                 <textarea name="q15" id="q15" cols="50" rows="5"  ></textarea> 
