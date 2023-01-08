@@ -30,8 +30,11 @@ html {
   }
 }
 
-
-
+.bold_2t{
+	font-size: 25px ; 
+	font-weight: 700 ;
+	letter-spacing: 0.7px ;
+}
 
 /* .s{
   position: absolute;
