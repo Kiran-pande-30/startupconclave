@@ -103,13 +103,24 @@ session_start();
     width: 60%;
     height: 2rem;
     padding: 0.5rem 0.5rem 0.5rem 1rem;
-    /* margin-left: 2rem; */
     border: #000000;
     border-radius: 0.6rem;
     font-size: 12px;
-    font-weight: 400;
+    font-weight: 600;
     font-family: 'Montserrat', sans-serif; 
 }
+    
+.answer_text_2{
+    width: 60%;
+    height: 2rem;
+    padding: 0.5rem 0.5rem 0.5rem 1rem;
+    border: #000000;
+    border-radius: 0.6rem;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif; 
+}
+    
 .add_mem{
     font-size: 1.2rem;
 }
@@ -120,6 +131,7 @@ session_start();
 
 ::placeholder{
     padding: 1rem;
+    font-weight: 600;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -193,6 +205,12 @@ session_start();
             <div class="details">
                 <input type="password" class="answer_text" name="cpassword" id="cpassword" placeholder="Confirm Password" required> 
             </div>
+            <div class="details">
+                <input type="text" class="answer_text_2" placeholder="City" required > 
+            </div>
+            <div class="details">
+                <input type="text" class="answer_text_2" placeholder="State" required > 
+            </div>
             <div class="details"> 
                 <select id="sector" name="sector" type="text" class="answer_text sector" required>
                     <option value="">Select Sector</option>
@@ -215,7 +233,7 @@ session_start();
             <div class="details" > 
                 <select id="size" name="size" class="answer_text size" required>
                     <option value="">No of Team Members</option>
-                    <option value="0">None</option>
+                    <option value="0">None(Solopreneur)</option>
                     <option value="1">1</option>
                     <option value="2">2</option>
                     <option value="3">3</option>
