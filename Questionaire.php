@@ -155,6 +155,22 @@ textarea{
           <div class="summary">Team Name</div> 
           <input name="TeamName" id="TeamName" class="answer_text" required>
         </div>
+        <div class="details">
+                <div class="summary">From where did you get to know about Startup Conclave?</div>
+  
+            <select id="Stage" type="text" class="answer_text" required onchange="yesnoCheck(this);">
+
+                <option class="option_text" value="select">Select </option>
+                <option class="option_text" value="Instagram">Instagram</option>
+                <option class="option_text" value="Linkedin">Linkedin</option>
+                <option class="option_text" value="Blue_Learn">Blue-Learn</option>
+                <option class="option_text" value="Headstart">Headstart</option>
+                <option class="option_text" value="other">Others</option>
+            </select>
+            <div id="ifYes" style="display: none;">
+                <label for="car">Muu, mikä?</label> <textarea placeholder="Please specify" required name="" id="" cols="50" rows="1"  ></textarea>
+            </div>
+        </div>s
             <div class="details">
                 <div class="summary">What is the role of each member in the Startup ?</div> <textarea required name="" id="" cols="50" rows="5"  ></textarea>
             </div>
@@ -256,6 +272,16 @@ Mention if you have secured funding, incubation, or enrolled in any (if any) acc
                 .then(window.location.href = "thanks.php")
                 .catch(error => console.error('Error!', error.message))
             })
+      
+      <script>
+function yesnoCheck(that) {
+    if (that.value == "other") {
+        document.getElementById("ifYes").style.display = "block";
+    } else {
+        document.getElementById("ifYes").style.display = "none";
+    }
+}
+</script>
   </script>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
