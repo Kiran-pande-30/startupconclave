@@ -410,7 +410,7 @@ p{
         </details>
         <details class="details_faq">
           <summary class="summary">What is the last date to register?</summary>
-          <p class="text">The last date of registration is the 31th of January. </p>
+          <p class="text">The last date of registration is the 8th of Feb </p>
         </details>
         <details class="details_faq">
           <summary class="summary">How many members can I have on my team? </summary>
