@@ -343,7 +343,7 @@ p{
         <i class="icon fas fa-star"></i>
         <div class="details">
           <span class="title">1. Executive Summary Round</span>
-          <span class="date">Till 8 Feb 2023</span>
+          <span class="date">Till 16 Feb 2023</span>
         </div>
         <p>Participants have to provide a thorough description of thier startup idea as part of the registration process followed by answering some basic questions regarding it.<p>
       </section>
@@ -410,7 +410,7 @@ p{
         </details>
         <details class="details_faq">
           <summary class="summary">What is the last date to register?</summary>
-          <p class="text">The last date of registration is the 8th of Feb </p>
+          <p class="text">The last date of registration is the 16th of Feb </p>
         </details>
         <details class="details_faq">
           <summary class="summary">How many members can I have on my team? </summary>
