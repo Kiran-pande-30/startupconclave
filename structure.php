@@ -343,7 +343,7 @@ p{
         <i class="icon fas fa-star"></i>
         <div class="details">
           <span class="title">1. Executive Summary Round</span>
-          <span class="date">Till 16 Feb 2023</span>
+          <span class="date">till 16 Feb 2023</span>
         </div>
         <p>Participants have to provide a thorough description of thier startup idea as part of the registration process followed by answering some basic questions regarding it.<p>
       </section>
@@ -353,7 +353,7 @@ p{
         <i class="icon fas fa-star"></i>
         <div class="details">
           <span class="title">2. Mentorship Round</span>
-          <span class="date">10 Feb 2023 - 27 Feb 2023</span>
+          <span class="date">20 Feb 2023 - 10 Mar 2023</span>
         </div>
         <p>Shortlisted Teams will be receiving mentoring sessions from renowned and experienced entrepreneurs. Each team has to submit its pitch deck and Elevator pitch. Mentors will guide the teams in thier further endeavors.</p>
         <!-- <div class="bottom">
@@ -367,7 +367,7 @@ p{
         <i class="icon fas fa-star"></i>
         <div class="details">
           <span class="title">3. Shark Tank Round</span>
-          <span class="date">23 Mar 2023 - 25 Mar 2023</span>
+          <span class="date">1 Apr 2023 - 2 Apr 2023</span>
         </div>
         <p>Leading teams will present their Startup at Consortium(Annual E-summit) at VNIT.The essential traits of an entrepreneur will be put to the test in front of the investors to negotiate.This round will test the presentation, speaking,evaluation and negotiationn skills of the startups.</p>
         <!-- <div class="bottom">
